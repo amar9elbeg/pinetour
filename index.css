@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#header {
+  width: 100vw;
+  background-color: red;
+  height: 80px;
+}
+
+#footer {
+  width: 100vw;
+  background-color: black;
+  height: 228px;
+}
